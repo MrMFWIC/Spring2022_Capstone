@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\taisen\\desktop\\tfs capstone project\\spring2022_capstone\\spring2022capstone\\intermediate\\build\\win64\\unrealeditor\\inc\\spring2022capstone\\spring2022capstone.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\taisen\\desktop\\tfs capstone project\\spring2022_capstone\\spring2022capstone\\intermediate\\build\\win64\\spring2022capstoneeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\taisen\\desktop\\tfs capstone project\\spring2022_capstone\\spring2022capstone\\intermediate\\build\\win64\\unrealeditor\\development\\spring2022capstone\\definitions.spring2022capstone.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

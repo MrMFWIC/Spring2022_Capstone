@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Spring2022Capstone",
+			"Path": "C:\\Users\\Taisen\\Desktop\\TFS Capstone Project\\Spring2022_Capstone\\Spring2022Capstone\\Source\\Spring2022Capstone.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Spring2022CapstoneEditor",
+			"Path": "C:\\Users\\Taisen\\Desktop\\TFS Capstone Project\\Spring2022_Capstone\\Spring2022Capstone\\Source\\Spring2022CapstoneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

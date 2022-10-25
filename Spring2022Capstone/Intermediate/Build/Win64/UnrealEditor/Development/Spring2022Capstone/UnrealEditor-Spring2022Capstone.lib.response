@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Spring2022Capstone.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\Spring2022CapstoneEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\UnrealEditor\Development\Spring2022Capstone\Spring2022Capstone.cpp.obj"
+"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\UnrealEditor\Development\Spring2022Capstone\Spring2022CapstoneGameModeBase.cpp.obj"
+"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\UnrealEditor\Development\Spring2022Capstone\Spring2022Capstone.init.gen.cpp.obj"
+"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\UnrealEditor\Development\Spring2022Capstone\Spring2022CapstoneGameModeBase.gen.cpp.obj"
+"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\UnrealEditor\Development\Spring2022Capstone\Default.rc2.res"
+/OUT:"C:\Users\Taisen\Desktop\TFS Capstone Project\Spring2022_Capstone\Spring2022Capstone\Intermediate\Build\Win64\UnrealEditor\Development\Spring2022Capstone\UnrealEditor-Spring2022Capstone.lib"
